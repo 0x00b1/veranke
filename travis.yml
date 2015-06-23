@@ -1,0 +1,6 @@
+compiler:
+  - clang
+language:
+  - cpp
+script:
+  - cmake . && make
