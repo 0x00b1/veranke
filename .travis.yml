@@ -4,6 +4,7 @@ compiler:
   - clang
 install:
   - sudo apt-get install -y cmake
+  - sudo apt-get install -y libsdl2-dev
 language:
   - cpp
 script:
